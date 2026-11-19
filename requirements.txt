@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+aiofiles
+pydantic-settings
+llama-index-core
+llama-index-llms-ollama
+llama-index-llms-openai
+llama-index-llms-openai-like
+llama-index-llms-gemini
+llama-index-embeddings-huggingface
+llama-index-readers-file
+pymupdf
